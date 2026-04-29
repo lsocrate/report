@@ -1,6 +1,7 @@
 ---
 title: "Triage"
-layout: page        # most themes use "page" or "default"
+layout: page   
+mermaid: true   
 ---
 # Diagnostic Triage Plan: Anna Riedl
 
@@ -539,13 +540,3 @@ This matrix shows which phases address which hypotheses, and the expected state 
 ---
 
 *This plan is designed for rapid, safe, parallel execution. Phases 0, 1, and 2 can all begin within the first week. Phase 3 follows within 2–3 weeks. The entire initial triage (Phases 0–3) should be completable in under one month, reducing 16 hypotheses to 2–3 actionable candidates.*
-
-
-
-<script src="https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js"></script>
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    mermaid.initialize({ startOnLoad: true });
-    mermaid.run({ querySelector: '.language-mermaid' });
-  });
-</script>
