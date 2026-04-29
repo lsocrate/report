@@ -1,3 +1,7 @@
+---
+title: "Triage"
+layout: page        # most themes use "page" or "default"
+---
 # Diagnostic Triage Plan: Anna Riedl
 
 **Created: April 20, 2026**

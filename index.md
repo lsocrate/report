@@ -1,3 +1,7 @@
+---
+title: "Report"
+layout: page        # most themes use "page" or "default"
+---
 # Medical Investigation Report: Anna Riedl
 
 **Compiled: April 19, 2026**
