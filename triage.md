@@ -1,7 +1,6 @@
 ---
 title: "Triage"
 layout: page   
-mermaid: true   
 ---
 # Diagnostic Triage Plan: Anna Riedl
 
